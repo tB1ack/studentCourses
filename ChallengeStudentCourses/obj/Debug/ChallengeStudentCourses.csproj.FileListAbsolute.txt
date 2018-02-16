@@ -1,0 +1,7 @@
+D:\TylerBlackman\The Tech Academy\C# and ASP.Net Course\Challenges\CS-ASP_051-Challenge_Code\ChallengeStudentCourses\ChallengeStudentCourses\bin\ChallengeStudentCourses.dll.config
+D:\TylerBlackman\The Tech Academy\C# and ASP.Net Course\Challenges\CS-ASP_051-Challenge_Code\ChallengeStudentCourses\ChallengeStudentCourses\bin\ChallengeStudentCourses.dll
+D:\TylerBlackman\The Tech Academy\C# and ASP.Net Course\Challenges\CS-ASP_051-Challenge_Code\ChallengeStudentCourses\ChallengeStudentCourses\bin\ChallengeStudentCourses.pdb
+D:\TylerBlackman\The Tech Academy\C# and ASP.Net Course\Challenges\CS-ASP_051-Challenge_Code\ChallengeStudentCourses\ChallengeStudentCourses\obj\Debug\ChallengeStudentCourses.csprojResolveAssemblyReference.cache
+D:\TylerBlackman\The Tech Academy\C# and ASP.Net Course\Challenges\CS-ASP_051-Challenge_Code\ChallengeStudentCourses\ChallengeStudentCourses\obj\Debug\ChallengeStudentCourses.csproj.CoreCompileInputs.cache
+D:\TylerBlackman\The Tech Academy\C# and ASP.Net Course\Challenges\CS-ASP_051-Challenge_Code\ChallengeStudentCourses\ChallengeStudentCourses\obj\Debug\ChallengeStudentCourses.dll
+D:\TylerBlackman\The Tech Academy\C# and ASP.Net Course\Challenges\CS-ASP_051-Challenge_Code\ChallengeStudentCourses\ChallengeStudentCourses\obj\Debug\ChallengeStudentCourses.pdb
